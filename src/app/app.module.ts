@@ -7,6 +7,7 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { CardComponent } from './components/card/card.component';
 import { HeaderComponent } from './components/header/header.component';
+import { CardPlayerComponent } from './components/card-player/card-player.component';
 
 import { PageNotFoundRouteComponent } from './routes/pagenotfound.route.component';
 import { LandingRouteComponent } from './routes/landing.route.component';
@@ -17,6 +18,7 @@ import { LandingRouteComponent } from './routes/landing.route.component';
     AppComponent,
     CardComponent,
     HeaderComponent,
+    CardPlayerComponent,
 
     // Routes
     PageNotFoundRouteComponent,
